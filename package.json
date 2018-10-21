@@ -1,0 +1,19 @@
+{
+  "name": "staticvoidclient",
+  "version": "0.0.0",
+  "description": "",
+  "main": "StaticVoidClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooswit/StaticVoidClient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooswit/StaticVoidClient/issues"
+  },
+  "homepage": "https://github.com/brooswit/StaticVoidClient#readme"
+}
